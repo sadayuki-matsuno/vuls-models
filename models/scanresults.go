@@ -24,10 +24,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/future-architect/vuls/alert"
+	"github.com/sadayuki-matsuno/vuls-models/alert"
+	"github.com/sadayuki-matsuno/vuls-models/cwe"
 
 	"github.com/sadayuki-matsuno/vuls-config/config"
-	"github.com/future-architect/vuls/cwe"
 	"github.com/sadayuki-matsuno/vuls-config/util"
 )
 

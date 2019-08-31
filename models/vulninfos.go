@@ -24,10 +24,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/future-architect/vuls/alert"
+	"github.com/sadayuki-matsuno/vuls-models/alert"
 
-	"github.com/sadayuki-matsuno/vuls-config/config"
 	exploitmodels "github.com/mozqnet/go-exploitdb/models"
+	"github.com/sadayuki-matsuno/vuls-config/config"
 )
 
 // VulnInfos has a map of VulnInfo
