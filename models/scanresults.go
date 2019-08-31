@@ -26,9 +26,9 @@ import (
 
 	"github.com/future-architect/vuls/alert"
 
-	"github.com/future-architect/vuls/config"
+	"github.com/sadayuki-matsuno/vuls-config/config"
 	"github.com/future-architect/vuls/cwe"
-	"github.com/future-architect/vuls/util"
+	"github.com/sadayuki-matsuno/vuls-config/util"
 )
 
 // ScanResults is a slide of ScanResult

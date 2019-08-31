@@ -26,7 +26,7 @@ import (
 
 	"github.com/future-architect/vuls/alert"
 
-	"github.com/future-architect/vuls/config"
+	"github.com/sadayuki-matsuno/vuls-config/config"
 	exploitmodels "github.com/mozqnet/go-exploitdb/models"
 )
 

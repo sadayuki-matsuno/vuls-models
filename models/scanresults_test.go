@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/future-architect/vuls/config"
+	"github.com/sadayuki-matsuno/vuls-config/config"
 	"github.com/k0kubun/pp"
 )
 
